@@ -12,4 +12,4 @@ This is where I share my projects, experiments, and what I learn along the way. 
 
 I'm open to AI/ML engineering opportunities and collaborations where I can contribute, learn from others, and turn research ideas into useful applications.
 
-LET SEE HOW FAR CAN I GO !!! 😊
+LET'S SEE HOW FAR I CAN GO! 😊

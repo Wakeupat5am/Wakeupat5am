@@ -1,6 +1,6 @@
-## Hey there 👋
+## Hey there 👋 
 
-I'm Hoang, an AI engineer based in Vietnam , Germany and maybe more country in the future
+I'm Hoang, an AI engineer based in Vietnam , Germany and maybe more country in the future. My background : National Excellent Student in Mathematics, Provincial Excellent Student in Biology, IELTS 7.0 (still update) , N5 nihongo.
 
 I mostly work with Python and PyTorch, focusing on machine learning, computer vision, and reinforcement learning.
 
